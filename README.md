@@ -11,11 +11,9 @@ I work on **Machine Learning (ML) and Deep Learning (DL)** projects, with a focu
 
 ## Tools & Technologies
 - **Programming**: Python (Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Hugging Face Transformers)
-- **Data Processing**: NLTK, SpaCy, FastText, BERT, GPT-based models
+- **Data Processing**: NLTK, SpaCy, BERT, GPT-based models
 - **Visualization**: Matplotlib, Seaborn, Plotly
 - **Databases**: SQL, BigQuery
 
 ## Let's Connect
 I'm open to collaborations, discussions, and knowledge sharing. If you're interested in **AI, NLP, or ML**, feel free to reach out!
-
-Happy coding :o)
